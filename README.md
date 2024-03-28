@@ -14,3 +14,12 @@ This application is a final project developed by university students. It is an e
 * **Track Delivery :** Users can track the status of their deliveries.
 
 This application serves as a customer-facing interface where users can browse and purchase products. There is also a web application component for merchants to manage products, handle orders, manage deliveries, and generate reports.
+
+| ## HomeScreen               | ## ProductDetailScreen     | ## CartScreen               |
+|-----------------------------|-----------------------------|-----------------------------|
+| ![HomeScreen](https://github.com/MooOun/circularmallbc/blob/main/ScreenShot/HomeScreen.png) | ![ProductDetailScreen](https://github.com/MooOun/circularmallbc/blob/main/ScreenShot/ProductDetail.png) | ![CartScreen](https://github.com/MooOun/circularmallbc/blob/main/ScreenShot/Cart.png) |
+
+| ## CheckOutScreen               | ## ProfileScreen     |                            |
+|-----------------------------|-----------------------------|----------------------------|
+| ![CheckOutScreen](https://github.com/MooOun/circularmallbc/blob/main/ScreenShot/CheckOut.png) | ![ProfileScreen](https://github.com/MooOun/circularmallbc/blob/main/ScreenShot/Profile.png) |                            |
+              |
